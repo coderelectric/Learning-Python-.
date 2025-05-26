@@ -9,6 +9,7 @@ This resporatory contains all my Python learning progress using the "Python in k
 ### Progress tracker :
  - Day 1 >> introduction , print  ,
  - Day 2 >> variables , data types , type convertions , airthmetic operators.
+ - Day 3 >> input and output , string manupulation , comments in python , escape sequences
    
 << more to go ...>>
 
