@@ -7,6 +7,7 @@ int: For integers (e.g., 1, -3, 100)
 float: For floating-point numbers (e.g., 3.14, -0.001)
 str: For strings (e.g., "Hello", "Python")
 bool: For boolean values (True or False)
+x=none
 
 Type Checking:
 
@@ -14,3 +15,6 @@ You can use the type() function to check the type of a variable.'''
 
 x = 10
 print(type(x))  # Output: <class 'int'>
+
+x = None
+print(type(x))
